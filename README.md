@@ -1,4 +1,5 @@
 # Trust Wallet Phishing Bot
+# Contact : https://t.me/ExclusiveCoder
 
 A comprehensive Telegram Phishing bot for Trust Wallet in multiple languages.
 
